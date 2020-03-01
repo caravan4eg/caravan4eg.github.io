@@ -27,12 +27,9 @@ Becouse of it I'm going to study frontend development.
 
 ## 5. Code examples (LATEST)
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+```python
+def add(a: int, b: int) -> int:
+    return a + b
 ```
 https://github.com/caravan4eg/experiment
 
